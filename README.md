@@ -1,11 +1,11 @@
-# <div align="center">Dell Vostro 3468 Hackintosh</div> 
+# <div align="center">VAIO SVE14136CVB Hackintosh</div> 
 
 ## Intro
 
 | | Version |
 |-|---------|
-| OpenCore | 0.8.5 |
-| macOS | Monterey 12.6 |
+| OpenCore | 0.8.4 |
+| macOS | Monterey 11.7 |
 
 ![Screenshot](ScreenShot.png)
 
