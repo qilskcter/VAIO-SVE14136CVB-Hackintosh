@@ -38,7 +38,7 @@
 | ``Keyboard and Trackpad``|✅|
 | ``Headphone Jack``|✅|
 | ``Graphics``|✅|
-| ``Battery``|❌|
+| ``Battery``|✅|
 | ``Power Management``|✅|
 | ``Multigesture Trackpad``|✅|                                                                          
 | ``Webcam``|✅|
@@ -46,4 +46,4 @@
 | ``Facetime and iMessage``|✅|
 | ``Ethernet``|✅|
 | ``Hotkeys``|✅|
-| ``Sleep``|✅|
+| ``Sleep``|❌|
