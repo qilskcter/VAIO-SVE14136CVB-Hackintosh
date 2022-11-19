@@ -5,7 +5,7 @@
 | | Version |
 |-|---------|
 | OpenCore | 0.8.4 |
-| macOS | Monterey 11.7 |
+| macOS | Big Sur 11.7 |
 
 ![Screenshot](ScreenShot.png)
 
